@@ -1,0 +1,9 @@
+# Это файл конфигурации пользователя Git.
+[user]
+	name = «comp»
+	email = valentina.zamotaeva@yandex.ru
+# Пожалуйста, адаптируйте и раскомментируйте следующие строки:
+#	user = comp
+#	email = comp@MacBook-Air-comp.local
+[credential]
+	helper = store
